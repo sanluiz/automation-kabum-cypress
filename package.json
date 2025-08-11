@@ -1,0 +1,17 @@
+{
+  "name": "cypress-kabum-automation",
+  "version": "1.0.0",
+  "description": "Automação Cypress - Kabum Carrinho (Node 18+, Cypress 13.x)",
+  "scripts": {
+    "start": "cypress open",
+    "test": "cypress run"
+  },
+  "devDependencies": {
+    "cypress": "^13.9.0",
+    "cypress-xpath": "^2.0.1",
+    "dotenv": "^16.4.0"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
