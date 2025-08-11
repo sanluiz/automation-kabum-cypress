@@ -26,7 +26,7 @@ Projeto pronto para executar testes Cypress que adicionam e removem produtos do 
 
 - Modo interativo (GUI):
   ```bash
-  npm run cy:open
+  npm start
   ```
 
 - Modo headless (CLI):
